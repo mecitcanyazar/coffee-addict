@@ -1,0 +1,57 @@
+header {
+    background-color: #F0E9E9;
+    text-align: center;
+}
+
+ul {
+list-style-type: square;
+list-style-position: inside;    
+}
+
+ a:hover {
+
+    background-color: #555;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: #AC0C0C;
+}
+
+h1 {
+
+    color:#C69B7B ;
+}
+
+table,th,td{ 
+    border:2px solid;
+  text-align: center;
+}
+
+th {
+    background-color: #04AA6D;
+    color: white;
+    }
+    
+  tr:hover {
+      background-color: coral;
+    }
+
+    input[type=text]:focus,input[type=email]:focus  {
+        background-color: lightblue;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+     }
+ 
+    button{
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+    }
+    button:hover{
+        background-color: rgb(112, 80, 255);
+    }
+    
+    
